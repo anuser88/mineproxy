@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\mineproxy\obj\Debug\net10.0\mineproxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\mineproxy\obj\Debug\net10.0\mineproxy.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\mineproxy\obj\Debug\net10.0\mineproxy.AssemblyInfo.cs
+C:\Users\Admin\source\repos\mineproxy\obj\Debug\net10.0\mineproxy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\mineproxy\bin\Debug\net10.0\mineproxy.exe
+C:\Users\Admin\source\repos\mineproxy\bin\Debug\net10.0\mineproxy.deps.json
+C:\Users\Admin\source\repos\mineproxy\bin\Debug\net10.0\mineproxy.runtimeconfig.json
+C:\Users\Admin\source\repos\mineproxy\bin\Debug\net10.0\mineproxy.dll
+C:\Users\Admin\source\repos\mineproxy\bin\Debug\net10.0\mineproxy.pdb
+C:\Users\Admin\source\repos\mineproxy\obj\Debug\net10.0\mineproxy.dll
+C:\Users\Admin\source\repos\mineproxy\obj\Debug\net10.0\refint\mineproxy.dll
+C:\Users\Admin\source\repos\mineproxy\obj\Debug\net10.0\mineproxy.pdb
+C:\Users\Admin\source\repos\mineproxy\obj\Debug\net10.0\mineproxy.genruntimeconfig.cache
+C:\Users\Admin\source\repos\mineproxy\obj\Debug\net10.0\ref\mineproxy.dll
