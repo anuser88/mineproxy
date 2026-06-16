@@ -12,3 +12,4 @@ C:\Users\Admin\source\repos\mineproxy\obj\Debug\net10.0\refint\mineproxy.dll
 C:\Users\Admin\source\repos\mineproxy\obj\Debug\net10.0\mineproxy.pdb
 C:\Users\Admin\source\repos\mineproxy\obj\Debug\net10.0\mineproxy.genruntimeconfig.cache
 C:\Users\Admin\source\repos\mineproxy\obj\Debug\net10.0\ref\mineproxy.dll
+C:\Users\Admin\source\repos\mineproxy\obj\Debug\net10.0\mineproxy.sourcelink.json
